@@ -1,9 +1,9 @@
 export const educations = [
   {
     id: 1,
-    title:"software engineer",
-    duration:"2022 - Present",
-    institution:""
+    title: "software engineer",
+    duration: "2022 - Present",
+    institution: "",
   },
   {
     id: 2,
@@ -18,9 +18,9 @@ export const educations = [
     institution: "",
   },
   {
-    id:3,
+    id: 4,
     title: "Secondary School Certificate",
     duration: "",
     institution: "",
-  }
-]
+  },
+];
