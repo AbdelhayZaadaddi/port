@@ -15,7 +15,7 @@ function Footer() {
             © Developer Portfolio by{" "}
             <Link
               target="_blank"
-              href="www.linkedin.com/in/abdelhay-zaadaddi"
+              href="https://www.linkedin.com/in/abdelhay-zaadaddi-40b380233/"
               className="text-[#16f2b3]"
             >
               ABDELHAY ZAADADDI
